@@ -1,0 +1,94 @@
+# 📊 Excel Chapter 5 – Advanced Excel Functions
+
+## 📖 Overview
+This chapter covers advanced Excel functions used to clean, analyze, and manipulate data efficiently. These functions help automate tasks and solve real-world business problems.
+
+---
+
+## 📚 Topics Covered
+
+- XLOOKUP
+- INDEX & MATCH
+- LEFT, RIGHT & MID
+- LEN
+- TRIM
+- UPPER, LOWER & PROPER
+- CONCAT & TEXTJOIN
+- TEXT Function
+- FIND & SEARCH
+- SUBSTITUTE & REPLACE
+- ROUND, ROUNDUP & ROUNDDOWN
+- IFERROR
+- UNIQUE
+- SORT
+- FILTER
+- SEQUENCE
+
+---
+
+## 🛠 Skills Learned
+
+- Perform flexible lookups using XLOOKUP
+- Retrieve data with INDEX & MATCH
+- Extract and clean text data
+- Format text consistently
+- Combine text from multiple cells
+- Handle errors in formulas
+- Generate dynamic lists
+- Filter and sort data automatically
+
+---
+
+## 📂 Practice Tasks
+
+- Find employee details using XLOOKUP
+- Retrieve product prices with INDEX & MATCH
+- Extract first and last names
+- Remove extra spaces from imported data
+- Convert names to Proper Case
+- Combine First Name and Last Name
+- Display only unique values
+- Filter sales above a target amount
+- Sort products by revenue
+- Handle missing values with IFERROR
+
+---
+
+## 📈 Key Learning Outcomes
+
+After completing this chapter, I can:
+
+- Clean messy datasets efficiently
+- Use advanced lookup techniques
+- Manipulate text for reporting
+- Create dynamic and interactive spreadsheets
+- Improve accuracy with error handling
+- Automate repetitive data analysis tasks
+
+---
+
+## 💼 Business Applications
+
+These Excel skills are commonly used in:
+
+- Data Cleaning
+- Customer Database Management
+- HR Analytics
+- Sales Reporting
+- Financial Analysis
+- Inventory Management
+- Business Intelligence
+
+---
+
+## 🎯 Tools Used
+
+- Microsoft Excel
+- Advanced Functions
+- Dynamic Array Functions
+
+---
+
+## ⭐ Conclusion
+
+This chapter enhanced my Excel skills by introducing advanced functions for data lookup, text manipulation, error handling, and dynamic data analysis. These techniques are essential for efficient reporting and business analytics.
